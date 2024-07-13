@@ -35,4 +35,8 @@ int downloadId = downloadManager.startDownload(imageUrl, localFilePath, new Down
     }
 });
 ```
+
+## Example Usage
+
+There is an example usage of the ImageDownloaderSDK in the MainActivity class. For details, please refer to the MainActivity file in the source code.
   
